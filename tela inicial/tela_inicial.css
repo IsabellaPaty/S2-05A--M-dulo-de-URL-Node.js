@@ -1,0 +1,103 @@
+.botao_verde{
+    color: black;
+    background-color: #457d58e8;
+    border-color: #457d5854;
+    border-radius: 30px;
+    box-shadow: inset;
+    border-bottom-left-radius: 10px;
+    font-size: 150%;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    margin-left: 10px;
+    width: 300px;
+    height: 80px;
+
+}
+
+.botao_verde:hover{
+    background-color: rgb(18, 127, 18);
+    transform: scale(1.1);
+    transition: 0.5s;
+    
+    
+
+}
+.botao2{
+    color: black;
+    background-color: #8ab3c5e6;
+    border-color:#8ab3c5b1;
+    border-radius: 30px;
+    border-bottom-left-radius: 10px;
+    font-size: 150%;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    margin-left: 10px;
+    width: 300px;
+    height: 80px;
+}
+.botao2:hover{
+    background-color: rgb(130, 235, 235);
+    transform: scale(1.1);
+    transition: 0.5s;
+
+}
+.botao3{
+    color: black;
+    background-color: #27274bc8;
+    border-color: #5f5f93ce;
+    border-radius: 30px;
+    box-shadow: inset;
+    border-bottom-left-radius: 10px;
+    font-size: 150%;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    margin-left: 10px;
+    width: 300px;
+    height: 80px;
+
+}
+.botao3:hover{
+    background-color: #27274bc8;
+    transform: scale(1.1);
+    transition: 0.5s;
+
+}
+.corpo{
+   background-image: url(Sem\ título.pn);
+   background-size:cover;
+   background-position: center;
+   max-width: 100%;
+   width: 100000px;
+   
+}
+
+.pessoa{
+    margin-right: 000px;
+    background-color:transparent;
+    border: none;
+    font-size: medium;
+    position: relative;
+    right: 300px;
+    
+}
+
+.sino{
+    margin-left: 000px;
+    background-color: transparent;
+    border: none;
+    font-size: medium;
+    position: relative;
+    left: 300px;
+}
+.barra{
+    margin-left: 000px;
+    background-color: transparent;
+    border: none;
+    position: relative;
+    left: 300px;
+}
+.pesquisa{
+     background-color: rgb(166, 239, 239);
+    border-color: rgb(177, 230, 244);
+    border-radius: 30px;
+    width: 500px;
+    height: 25px;
+    border-left: 500px;
+    }
